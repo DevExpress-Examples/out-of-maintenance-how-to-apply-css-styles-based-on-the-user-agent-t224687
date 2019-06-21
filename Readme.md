@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs)
 <!-- default file list end -->
 # How to apply CSS styles based on the user agent
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t224687)**
+<!-- run online end -->
 
 
 <p>This example shows how to style your content using DevExpress CSS classes applied to the "html" element. See <a href="https://www.devexpress.com/Support/Center/p/T223234">How to apply CSS styles based on the user agent</a> for more information.</p>
